@@ -16,11 +16,3 @@ router.get('/', (req, res) => {
 });
 
 module.exports = router;
-
-/* const cards = require('../data/cards.json');
-
-router.get ('/', (req, res) => {
-  res.send(cards);
-});
-
-module.exports = router; */
